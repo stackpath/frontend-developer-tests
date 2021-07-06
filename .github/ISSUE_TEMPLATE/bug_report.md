@@ -43,6 +43,8 @@ A clear and concise description of what happened instead.
 
 **System Details (please complete the following information):**
  * Node Version: [e.g. v14.16.0]
+ * NPM Version: [e.g. 3.10.10]
+ * Yarn Version: [e.g. 1.22.10]
  * Operating System: [e.g. macOS, CentOS, Ubuntu, Windows]
  * Operating System Version: [e.g. 10.14.3, 7.3, 18.04, 10 Pro build 1809]
 

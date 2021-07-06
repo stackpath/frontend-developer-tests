@@ -40,13 +40,13 @@ Please ensure the following when submitting a pull request against the project.
 
 For example, here is a meaningful commit message:
 ```
-Fix a nil pointer panic in the unit-testing example
+Fix a console warning in the countries test
 ```
 
 To contrast, here is an example of of a poor commit message. Note that it says 
 literally what changed, but provides no context to readers.
 ```
-Fix panics
+Fix warnings
 ```
 
 ## Opening a pull request
